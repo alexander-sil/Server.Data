@@ -24,7 +24,7 @@ namespace Server.Data.Models
         [StringLength(255)]
         public string Building { get; set; }
 
-        public Entry BorrowedItem { get; set; }
+        public virtual Entry BorrowedItem { get; set; }
     }
 }
 

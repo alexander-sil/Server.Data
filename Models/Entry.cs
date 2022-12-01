@@ -13,10 +13,10 @@ namespace Server.Data.Models
         public int Id { get; set; }
 
         [ForeignKey(nameof(Person))]
-        public int BorrowingPersonId { get; set; }
+        public virtual Person BorrowingPerson { get; set; }
 
         [Column]
-        public State State { get; set; }
+        public string State { get; set; }
 
         // Client 180
         [Column]
@@ -41,7 +41,7 @@ namespace Server.Data.Models
         public string Owner { get; set; }
 
         [InverseProperty(nameof(Person.BorrowedItem))]
-        public virtual ICollection<Person> BorrowingPeople { get; set; } = new List<Person>();
+        public virtual List<Person> BorrowingPeople { get; set; } = new List<Person>();
 
     }
 }
