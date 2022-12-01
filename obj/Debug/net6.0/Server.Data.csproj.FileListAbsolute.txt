@@ -1,0 +1,14 @@
+/Users/alexgreenhouse/Projects/Server.Data/bin/Debug/net6.0/Server.Data.deps.json
+/Users/alexgreenhouse/Projects/Server.Data/bin/Debug/net6.0/Server.Data.runtimeconfig.json
+/Users/alexgreenhouse/Projects/Server.Data/bin/Debug/net6.0/Server.Data.dll
+/Users/alexgreenhouse/Projects/Server.Data/bin/Debug/net6.0/Server.Data.pdb
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.csproj.AssemblyReference.cache
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.AssemblyInfoInputs.cache
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.AssemblyInfo.cs
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.csproj.CoreCompileInputs.cache
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.dll
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/refint/Server.Data.dll
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.pdb
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/Server.Data.genruntimeconfig.cache
+/Users/alexgreenhouse/Projects/Server.Data/obj/Debug/net6.0/ref/Server.Data.dll
